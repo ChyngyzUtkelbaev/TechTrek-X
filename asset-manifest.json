@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TechTrek-X/static/css/main.043e29ad.css",
-    "main.js": "/TechTrek-X/static/js/main.a5deba94.js",
+    "main.js": "/TechTrek-X/static/js/main.ef255862.js",
     "static/js/453.e0ba5aea.chunk.js": "/TechTrek-X/static/js/453.e0ba5aea.chunk.js",
     "index.html": "/TechTrek-X/index.html",
     "main.043e29ad.css.map": "/TechTrek-X/static/css/main.043e29ad.css.map",
-    "main.a5deba94.js.map": "/TechTrek-X/static/js/main.a5deba94.js.map",
+    "main.ef255862.js.map": "/TechTrek-X/static/js/main.ef255862.js.map",
     "453.e0ba5aea.chunk.js.map": "/TechTrek-X/static/js/453.e0ba5aea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.043e29ad.css",
-    "static/js/main.a5deba94.js"
+    "static/js/main.ef255862.js"
   ]
 }
