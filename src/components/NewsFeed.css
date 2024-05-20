@@ -1,0 +1,42 @@
+    .news-feed ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+    .news-feed li {
+        background: #fff;
+        margin: 10px 0;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease;
+    }
+    
+    .news-feed li:hover {
+        transform: translateY(-5px);
+    }
+    
+    .news-feed h2 {
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+    
+    .news-feed p {
+        margin: 10px 0 0;
+        font-size: 16px;
+    }
+    
+    .fade-in {
+        animation: fadeIn 1s ease-in;
+    }
+    
+    @keyframes fadeIn {
+        from {
+        opacity: 0;
+        }
+        to {
+        opacity: 1;
+        }
+    }
+    

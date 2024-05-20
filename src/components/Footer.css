@@ -1,0 +1,29 @@
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+    margin-top: auto;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .footer:hover {
+    background: #444;
+  }
+  
+  .fade-in {
+    animation: fadeIn 1s ease-in;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
