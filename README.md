@@ -1,1 +1,3 @@
-# situatioanal_task_3
+# TechTrek-X
+
+https://chyngyzutkelbaev.github.io/TechTrek-X/
